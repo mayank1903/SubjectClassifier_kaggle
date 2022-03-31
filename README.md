@@ -3,4 +3,4 @@
 nltk.txt requires the below mentioned two packages:
 
 1. wordnet
-2. 
+2. omw-1.4
